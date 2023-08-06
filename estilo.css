@@ -35,7 +35,7 @@
 }
 
 .botao:hover {
-    background-color: rgba(0, 0, 0, -50%);
+    background-color: rgb(0, 0, 0);
 }
 
  #resultado {
